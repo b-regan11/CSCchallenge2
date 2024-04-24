@@ -8,7 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.WindowConstants;
 
-public class Main {
+public class Window {
     public static void main(String[] args) {
         JFrame frame = new JFrame("Swing Demo");
         frame.setSize(800, 600);
