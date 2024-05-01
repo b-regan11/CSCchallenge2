@@ -6,4 +6,4 @@ This repo contains a Git GUI assistant for working with GitHub, particularly for
 https://b-regan11.github.io/CSCchallenge2/
 ```
 ### Documentation
-Documentation for how to use this can be found [here](https://b-regan11.github.io/CSCchallenge2/).
+Documentation for how to use this can be found [here](./docs/index.md).
